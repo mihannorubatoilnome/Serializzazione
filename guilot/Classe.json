@@ -1,0 +1,27 @@
+{
+    "numero": 5,
+    "sezione": "CIA",
+    "aula": "4TC-PT",
+    "list": [
+        {
+            "nome": "Edmard",
+            "cognome": "Guilot",
+            "dataNascita": 61002543600000
+        },
+        {
+            "nome": "Filippo Giulio",
+            "cognome": "Lulli III D'Aragosta",
+            "dataNascita": 61014895200000
+        },
+        {
+            "nome": "Giacomo",
+            "cognome": "Meratti",
+            "dataNascita": 61061986800000
+        },
+        {
+            "nome": "Federico",
+            "cognome": "Borrometi",
+            "dataNascita": 61059222000000
+        }
+    ]
+}

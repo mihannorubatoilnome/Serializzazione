@@ -1,0 +1,27 @@
+<Classe>
+    <numero>5</numero>
+    <sezione>CIA</sezione>
+    <aula>4TC-PT</aula>
+    <list>
+        <list>
+            <nome>Edmard</nome>
+            <cognome>Guilot</cognome>
+            <dataNascita>61002543600000</dataNascita>
+        </list>
+        <list>
+            <nome>Filippo Giulio</nome>
+            <cognome>Lulli III D'Aragosta</cognome>
+            <dataNascita>61014895200000</dataNascita>
+        </list>
+        <list>
+            <nome>Giacomo</nome>
+            <cognome>Meratti</cognome>
+            <dataNascita>61061986800000</dataNascita>
+        </list>
+        <list>
+            <nome>Federico</nome>
+            <cognome>Borrometi</cognome>
+            <dataNascita>61059222000000</dataNascita>
+        </list>
+    </list>
+</Classe>
