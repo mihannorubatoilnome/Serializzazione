@@ -23,13 +23,18 @@ public class App {
 
         // Serializzazione
         try {
-            //XML
-            XmlMapper xmlMapper = new XmlMapper();
-            xmlMapper.writeValue(new File("Classe.xml"), c1);
+            //XML file
+            //XmlMapper xmlMapper = new XmlMapper();
+            //xmlMapper.writeValue(new File("Classe.xml"), c1);
 
-            //JSON
-            ObjectMapper objectMapper = new ObjectMapper();
-            objectMapper.writeValue(new File("guilot/Classe.json"), c1);
+            //XML String
+            XmlMapper Mapper = new XmlMapper();
+            String xml = Mapper.writeValueAsString(c1);
+            System.out.println(xml);
+
+            //JSON file
+            //ObjectMapper objectMapper = new ObjectMapper();
+            //objectMapper.writeValue(new File("guilot/Classe.json"), c1);
 
         } catch (Exception e) {
             System.out.println(e);
