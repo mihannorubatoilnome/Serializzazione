@@ -7,7 +7,8 @@ import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 public class App2 {
 
     public static void main(String[] args) {
-        //Deserialize
+        
+        //Deserializzazione
         try{
             //XML
             File file = new File("guilot/Classe.xml");
